@@ -14,4 +14,3 @@ its dependencies as well as running tasks.
 ## Resources
 
 - [Figma Design Mockup](https://www.figma.com/file/WLT9tCFtKtOYnsZeBxaGHv/LibreFit?node-id=0%3A1)
-- [Google Document with Design]
