@@ -1,6 +1,5 @@
 import { Route, Router } from "wouter";
-import Home from "./pages/Home";
-import Settings from "./pages/Settings";
+import { Settings, Home } from "./pages";
 import { Bespoke } from "./types/types";
 import { RecoilRoot } from "recoil";
 

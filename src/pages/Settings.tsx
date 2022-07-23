@@ -1,7 +1,7 @@
 export default function Settings() {
   return (
     <div>
-      <h1>LibreFit Settings</h1>
+      <h1 data-testid="settings-title-element">LibreFit Settings</h1>
     </div>
   );
 }
