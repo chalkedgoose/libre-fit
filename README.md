@@ -10,3 +10,8 @@ its dependencies as well as running tasks.
  pnpm run dev # run development server
  pnpm run test # run automated test suite
 ```
+
+## Resources
+
+- [Figma Design Mockup](https://www.figma.com/file/WLT9tCFtKtOYnsZeBxaGHv/LibreFit?node-id=0%3A1)
+- [Google Document with Design]
